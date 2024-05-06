@@ -2,6 +2,8 @@
 
 # HERA: Where Connections Blossom and Memories Flourish
 
+This was built as a part of an entrepreneurship Course at the University of San Francisco by @codewithtej @varshamoturi
+
 ## Overview
 
 HERA is more than a dating app; she's your friend, guide, and matchmaker. With advanced AI, HERA crafts personalized matches and unforgettable experiences tailored to your interests. In a world craving genuine connections, HERA revolutionizes how we bond and find love. Welcome to HERA – where meaningful connections feel effortless.
